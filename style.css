@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url('./assets/background.JPG');
+    background-size: cover;
+}
+
+.save h1:hover{
+    cursor: pointer;
+}
